@@ -1,0 +1,22 @@
+body{
+      background-image: linear-gradient(#8fb7fe, #aacffe, #749ffd);
+   color:black;
+font-size: 35px;
+}
+
+
+h1{
+    color:cyan;
+}
+
+
+h2{
+background-color:lightgrey ;
+ color:white;
+}
+
+
+imag{
+    width:500px;
+    height:300px;
+}
