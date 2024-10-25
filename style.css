@@ -1,18 +1,18 @@
 body{
-      background-image: linear-gradient(#8fb7fe, #aacffe, #749ffd);
+      background-image: linear-gradient(#8894aa, #586679, #475063);
    color:black;
 font-size: 35px;
 }
 
 
 h1{
-    color:cyan;
+    color:lightgrey;
 }
 
 
 h2{
 background-color:lightgrey ;
- color:white;
+ color:rgb(37, 24, 24);
 }
 
 
